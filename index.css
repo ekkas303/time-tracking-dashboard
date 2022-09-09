@@ -45,7 +45,7 @@ main section:nth-child(1){
 main section:nth-child(2){
 background:hsl(15, 100%, 70%);;
 grid-area:two;
-background-image:url(images/icon-work.svg);
+background-image:url(icon-work.svg);
 background-repeat: no-repeat;
 background-position: right  top ;
 border-radius: 1rem;
@@ -56,7 +56,7 @@ border-radius: 1rem;
 main section:nth-child(3){
     background:hsl(195, 74%, 62%);
     grid-area:three;
-    background-image:url(images/icon-play.svg);
+    background-image:url(icon-play.svg);
     background-repeat: no-repeat;
     background-position: right  top ;
     border-radius: 1rem;
@@ -67,7 +67,7 @@ main section:nth-child(3){
 main section:nth-child(4){
     background:hsl(348, 100%, 68%);
     grid-area:four;
-    background-image:url(images/icon-study.svg);
+    background-image:url(icon-study.svg);
     background-repeat: no-repeat;
     background-position: right  top ;
     border-radius: 1rem;
@@ -78,7 +78,7 @@ main section:nth-child(4){
 main section:nth-child(5){
     background:hsl(145, 58%, 55%);
     grid-area:five;
-    background-image:url(images/icon-exercise.svg);
+    background-image:url(icon-exercise.svg);
     background-repeat: no-repeat;
     background-position: right  top ;
     border-radius: 1rem;
@@ -89,7 +89,7 @@ main section:nth-child(5){
 main section:nth-child(6){
     background:hsl(264, 64%, 52%);
     grid-area:six;
-    background-image:url(images/icon-social.svg);
+    background-image:url(icon-social.svg);
     background-repeat: no-repeat;
     background-position: right  top ;
     border-radius: 1rem;
@@ -101,7 +101,7 @@ main section:nth-child(6){
 main section:nth-child(7){
     background:hsl(43, 84%, 65%);
     grid-area:seven;
-    background-image:url(images/icon-self-care.svg);
+    background-image:url(icon-self-care.svg);
     background-repeat: no-repeat;
     background-position:right   top ;
     border-radius: 1rem;
